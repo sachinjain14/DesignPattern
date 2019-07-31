@@ -1,0 +1,19 @@
+[23/07/2019 07:53:46:218676637] : checking /user/deuser/deploy/splunk-archival/script/lastmodifiedtimestamp.txt exists or not in /user/deuser/deploy/splunk-archival/script
+[23/07/2019 07:53:46:222858072] : /user/deuser/deploy/splunk-archival/script/lastmodifiedtimestamp.txt exists
+[23/07/2019 07:53:46:225846759] : /user/deuser/deploy/splunk-archival/script/lastmodifiedtimestamp.txt file exist. so files archiving on HDFS initiated
+[23/07/2019 07:53:46:231218988] : last timestamp from /user/deuser/deploy/splunk-archival/script/lastmodifiedtimestamp.txt is 1563868255
+[23/07/2019 07:53:46:238160265] : listing files at path /user/deuser/deploy/splunk-archival/source_folder is sucssfull
+[23/07/2019 07:53:46:242571769] : /user/deuser/deploy/splunk-archival/source_folder/s10.txt added/updated from last run, so archiving on hdfs path /user/hive/warehouse/detoolkit.db/toolkit_monitor
+[23/07/2019 07:53:49:266227769] : /user/deuser/deploy/splunk-archival/source_folder/s10.txt archived on /user/hive/warehouse/detoolkit.db/toolkit_monitor successfully
+[23/07/2019 07:53:49:273749419] : /user/deuser/deploy/splunk-archival/source_folder/s1.txt is old file, so not archiving on /user/hive/warehouse/detoolkit.db/toolkit_monitor
+[23/07/2019 07:53:49:280128879] : /user/deuser/deploy/splunk-archival/source_folder/s2.txt is old file, so not archiving on /user/hive/warehouse/detoolkit.db/toolkit_monitor
+[23/07/2019 07:53:49:287311805] : /user/deuser/deploy/splunk-archival/source_folder/s3.txt is old file, so not archiving on /user/hive/warehouse/detoolkit.db/toolkit_monitor
+[23/07/2019 07:53:49:293667243] : /user/deuser/deploy/splunk-archival/source_folder/s4.txt is old file, so not archiving on /user/hive/warehouse/detoolkit.db/toolkit_monitor
+[23/07/2019 07:53:49:299939420] : /user/deuser/deploy/splunk-archival/source_folder/s5.txt is old file, so not archiving on /user/hive/warehouse/detoolkit.db/toolkit_monitor
+[23/07/2019 07:53:49:306606118] : /user/deuser/deploy/splunk-archival/source_folder/s6.txt is old file, so not archiving on /user/hive/warehouse/detoolkit.db/toolkit_monitor
+[23/07/2019 07:53:49:313020849] : /user/deuser/deploy/splunk-archival/source_folder/s7.txt is old file, so not archiving on /user/hive/warehouse/detoolkit.db/toolkit_monitor
+[23/07/2019 07:53:49:319532934] : /user/deuser/deploy/splunk-archival/source_folder/s8.txt added/updated from last run, so archiving on hdfs path /user/hive/warehouse/detoolkit.db/toolkit_monitor
+[23/07/2019 07:53:52:189084346] : /user/deuser/deploy/splunk-archival/source_folder/s8.txt archived on /user/hive/warehouse/detoolkit.db/toolkit_monitor successfully
+[23/07/2019 07:53:52:195026148] : /user/deuser/deploy/splunk-archival/source_folder/s9.txt added/updated from last run, so archiving on hdfs path /user/hive/warehouse/detoolkit.db/toolkit_monitor
+[23/07/2019 07:53:54:988706719] : /user/deuser/deploy/splunk-archival/source_folder/s9.txt archived on /user/hive/warehouse/detoolkit.db/toolkit_monitor successfully
+[23/07/2019 07:53:54:999284235] : /user/deuser/deploy/splunk-archival/script/lastmodifiedtimestamp.txt updated successfully

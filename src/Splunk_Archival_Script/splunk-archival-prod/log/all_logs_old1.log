@@ -1,0 +1,20 @@
+[23/07/2019 07:50:35:496407467] : checking /user/deuser/deploy/splunk-archival/script/lastmodifiedtimestamp.txt exists or not in /user/deuser/deploy/splunk-archival/script
+[23/07/2019 07:50:35:502084451] : /user/deuser/deploy/splunk-archival/script/lastmodifiedtimestamp.txt exists
+[23/07/2019 07:50:35:506186040] : /user/deuser/deploy/splunk-archival/script/lastmodifiedtimestamp.txt file exist. so files archiving on HDFS initiated
+[23/07/2019 07:50:35:512227972] : last timestamp from /user/deuser/deploy/splunk-archival/script/lastmodifiedtimestamp.txt is 1563528900
+[23/07/2019 07:50:35:519782544] : listing files at path /user/deuser/deploy/splunk-archival/source_folder is sucssfull
+[23/07/2019 07:50:35:526374343] : /user/deuser/deploy/splunk-archival/source_folder/s1.txt added/updated from last run, so archiving on hdfs path /user/hive/warehouse/detoolkit.db/toolkit_monitor
+[23/07/2019 07:50:38:378280116] : /user/deuser/deploy/splunk-archival/source_folder/s1.txt archived on /user/hive/warehouse/detoolkit.db/toolkit_monitor successfully
+[23/07/2019 07:50:38:384573134] : /user/deuser/deploy/splunk-archival/source_folder/s2.txt added/updated from last run, so archiving on hdfs path /user/hive/warehouse/detoolkit.db/toolkit_monitor
+[23/07/2019 07:50:41:283824068] : /user/deuser/deploy/splunk-archival/source_folder/s2.txt archived on /user/hive/warehouse/detoolkit.db/toolkit_monitor successfully
+[23/07/2019 07:50:41:291138699] : /user/deuser/deploy/splunk-archival/source_folder/s3.txt added/updated from last run, so archiving on hdfs path /user/hive/warehouse/detoolkit.db/toolkit_monitor
+[23/07/2019 07:50:44:220073897] : /user/deuser/deploy/splunk-archival/source_folder/s3.txt archived on /user/hive/warehouse/detoolkit.db/toolkit_monitor successfully
+[23/07/2019 07:50:44:227671081] : /user/deuser/deploy/splunk-archival/source_folder/s4.txt added/updated from last run, so archiving on hdfs path /user/hive/warehouse/detoolkit.db/toolkit_monitor
+[23/07/2019 07:50:47:173853009] : /user/deuser/deploy/splunk-archival/source_folder/s4.txt archived on /user/hive/warehouse/detoolkit.db/toolkit_monitor successfully
+[23/07/2019 07:50:47:180879412] : /user/deuser/deploy/splunk-archival/source_folder/s5.txt added/updated from last run, so archiving on hdfs path /user/hive/warehouse/detoolkit.db/toolkit_monitor
+[23/07/2019 07:50:50:066978605] : /user/deuser/deploy/splunk-archival/source_folder/s5.txt archived on /user/hive/warehouse/detoolkit.db/toolkit_monitor successfully
+[23/07/2019 07:50:50:074766785] : /user/deuser/deploy/splunk-archival/source_folder/s6.txt added/updated from last run, so archiving on hdfs path /user/hive/warehouse/detoolkit.db/toolkit_monitor
+[23/07/2019 07:50:52:950842328] : /user/deuser/deploy/splunk-archival/source_folder/s6.txt archived on /user/hive/warehouse/detoolkit.db/toolkit_monitor successfully
+[23/07/2019 07:50:52:958034122] : /user/deuser/deploy/splunk-archival/source_folder/s7.txt added/updated from last run, so archiving on hdfs path /user/hive/warehouse/detoolkit.db/toolkit_monitor
+[23/07/2019 07:50:55:721824247] : /user/deuser/deploy/splunk-archival/source_folder/s7.txt archived on /user/hive/warehouse/detoolkit.db/toolkit_monitor successfully
+[23/07/2019 07:50:55:734805159] : /user/deuser/deploy/splunk-archival/script/lastmodifiedtimestamp.txt updated successfully
